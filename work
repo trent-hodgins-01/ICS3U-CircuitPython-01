@@ -1,0 +1,22 @@
+#!/bin/env python3
+
+# Created by: Trent Hodgins
+# Created on: 10/05/2021
+# This program is the "Hello, World!" program on the PyBadge
+
+import ugame
+import stage
+
+
+def game_scene():
+    # this function is the main game game_screen
+    
+    print("\n\n\n") # 3 blank lines
+    print("Hello, World!")
+    
+    # repeat forever, game Loop
+    while True:
+        pass # just a placeholer for now
+    
+if __name__ == "__main__":
+    main()
